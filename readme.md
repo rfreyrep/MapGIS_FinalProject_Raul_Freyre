@@ -145,6 +145,6 @@ The dataset was cleaned and normalized to retain only the most relevant fields, 
 The project can be hosted directly on GitHub Pages.  
 Once uploaded, the map can be viewed online by navigating to:  
 ```
-*Link*
+https://rfreyrep.github.io/MapGIS_FinalProject_Raul_Freyre/
 ```
 
